@@ -17,3 +17,7 @@ Youtube: https://www.youtube.com/watch?v=EO6Gzx4Hw08
 4) 시각화 : HTML환경에서 부투스트랩을 이용하여 빠르고 간결한 템플릿을 구성 + Youtube APi 사용 Get post메소드 이용 인자값을 던져주는 방식 
 
 
+1. Initial Screen
+2. Description
+3. Music Genre
+4. Contact
