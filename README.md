@@ -6,6 +6,7 @@
 Youtube(설명 영상): https://www.youtube.com/watch?v=EO6Gzx4Hw08
 
 <img width="789" alt="스크린샷 2020-03-23 오후 5 36 16" src="https://user-images.githubusercontent.com/62536330/77297604-e1a69200-6d2c-11ea-9a65-b4f83f339dd6.png">
+
 # 환경
  FLASK web 환경의 Python기반 tensorflow,Music21,Keras,numpy 라이브러리 사용
 
@@ -26,10 +27,13 @@ Youtube(설명 영상): https://www.youtube.com/watch?v=EO6Gzx4Hw08
 
 # 1. Initial Screen
 <img width="1199" alt="스크린샷 2020-03-23 오후 5 42 00" src="https://user-images.githubusercontent.com/62536330/77298395-37c80500-6d2e-11ea-9037-e8fa232f6c94.png">
+
 # 2. Description
 <img width="1217" alt="스크린샷 2020-03-23 오후 5 42 09" src="https://user-images.githubusercontent.com/62536330/77298400-3991c880-6d2e-11ea-94f1-49b18e585c90.png">
+
 # 3. Music Genre & Contact
 <img width="1223" alt="스크린샷 2020-03-23 오후 5 42 16" src="https://user-images.githubusercontent.com/62536330/77298403-3a2a5f00-6d2e-11ea-8446-2c259eef966e.png">
+
 # 4. Image
 <img width="629" alt="스크린샷 2020-03-23 오후 5 35 01" src="https://user-images.githubusercontent.com/62536330/77298407-3ac2f580-6d2e-11ea-8d2f-36eaac5d0f26.png">
 
