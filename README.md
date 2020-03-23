@@ -1,6 +1,8 @@
 # AIRoomMusic
 -  4학년 2학기  캡스톤2  프로젝트
 Youtube: https://www.youtube.com/watch?v=EO6Gzx4Hw08
+<img width="1443" alt="스크린샷 2020-03-23 오후 5 28 51" src="https://user-images.githubusercontent.com/62536330/77297227-4f05f300-6d2c-11ea-990d-9a855fe3cf5d.png">
+
 # 환경
  FLASK web 환경의 Python기반 tensorflow,Music21,Keras,numpy 라이브러리 사용
 # WHY
