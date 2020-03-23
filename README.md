@@ -26,15 +26,28 @@ Youtube(설명 영상): https://www.youtube.com/watch?v=EO6Gzx4Hw08
 
 
 # 1. Initial Screen
+
+- Flask Web + BootStrap Template을 활용하여 Video 클립을 활용한 빠른 웹 디자인 개발
+
 <img width="1199" alt="스크린샷 2020-03-23 오후 5 42 00" src="https://user-images.githubusercontent.com/62536330/77298395-37c80500-6d2e-11ea-9037-e8fa232f6c94.png">
 
 # 2. Description
+
+- 프로젝트에 대한 간략한 설명
+
 <img width="1217" alt="스크린샷 2020-03-23 오후 5 42 09" src="https://user-images.githubusercontent.com/62536330/77298400-3991c880-6d2e-11ea-94f1-49b18e585c90.png">
 
 # 3. Music Genre & Contact
+
+- 해당 장르 모델에 따른 학습을 통하여 장르별 음악 및 악보를 제공 클릭시 해당 유튜브 목록 API를 통해 링크로 이동
+- Gmail API를 활용하여 Contact 기능 구현
+
 <img width="1223" alt="스크린샷 2020-03-23 오후 5 42 16" src="https://user-images.githubusercontent.com/62536330/77298403-3a2a5f00-6d2e-11ea-8446-2c259eef966e.png">
 
 # 4. Image
+
+- 캡스톤 경진대회 전시 
+
 <img width="629" alt="스크린샷 2020-03-23 오후 5 35 01" src="https://user-images.githubusercontent.com/62536330/77298407-3ac2f580-6d2e-11ea-8d2f-36eaac5d0f26.png">
 
 
