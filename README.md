@@ -5,7 +5,7 @@
 
 Youtube(설명 영상): https://www.youtube.com/watch?v=EO6Gzx4Hw08
 
-Youtube(영화 음악 제작): https://www.youtube.com/watch?v=PhWka0dOqOg
+Youtube(영화 음악 제작 19초부터): https://www.youtube.com/watch?v=PhWka0dOqOg
 
 <img width="789" alt="스크린샷 2020-03-23 오후 5 36 16" src="https://user-images.githubusercontent.com/62536330/77297604-e1a69200-6d2c-11ea-9a65-b4f83f339dd6.png">
 
